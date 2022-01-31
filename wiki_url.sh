@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "----Welcom----"
+echo "----Welcome----"
 if [[ -z "$1" ]]; then
   echo "Please enter search keyword"
   read term
